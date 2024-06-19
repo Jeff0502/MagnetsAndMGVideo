@@ -37,6 +37,8 @@ public class Game1 : Game
         if (GamePad.GetState(PlayerIndex.One).Buttons.Back == ButtonState.Pressed || Keyboard.GetState().IsKeyDown(Keys.Escape))
             Exit();
 
+        player.Update(1.0f);
+
         // TODO: Add your update logic here
 
         base.Update(gameTime);
