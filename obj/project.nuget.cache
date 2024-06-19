@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "404lNM28MGXttTsFG9p2GIGLyW19ucsbG8k1RlO0XCUMNzS/B1/6Qb8l31K7mrKZSMJ8LqxsLRBJQ4p4JAm0wQ==",
+  "success": true,
+  "projectFilePath": "/home/christiaan/Documents/MagnetsAndMonoGame/MNMG/MNMG.csproj",
+  "expectedPackageFiles": [
+    "/home/christiaan/.nuget/packages/monogame.content.builder.task/3.8.1.303/monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "/home/christiaan/.nuget/packages/monogame.extended/3.8.0/monogame.extended.3.8.0.nupkg.sha512",
+    "/home/christiaan/.nuget/packages/monogame.framework.desktopgl/3.8.1.303/monogame.framework.desktopgl.3.8.1.303.nupkg.sha512",
+    "/home/christiaan/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/home/christiaan/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.29/microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "/home/christiaan/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.29/microsoft.netcore.app.host.linux-x64.6.0.29.nupkg.sha512",
+    "/home/christiaan/.nuget/packages/microsoft.netcore.app.ref/6.0.29/microsoft.netcore.app.ref.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}
