@@ -9,6 +9,8 @@ public class Game1 : Game
     private GraphicsDeviceManager _graphics;
     private SpriteBatch _spriteBatch;
 
+    private Block player = new Block();
+
     public Game1()
     {
         _graphics = new GraphicsDeviceManager(this);
@@ -43,6 +45,12 @@ public class Game1 : Game
     protected override void Draw(GameTime gameTime)
     {
         GraphicsDevice.Clear(Color.CornflowerBlue);
+
+        _spriteBatch.Begin();
+
+        player.Draw(_spriteBatch);
+
+        _spriteBatch.End();
 
         // TODO: Add your drawing code here
 

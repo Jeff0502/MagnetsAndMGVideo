@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MNMG")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+be156fecd8a8165f05303306349ba2d73c33ad84")]
 [assembly: System.Reflection.AssemblyProductAttribute("MNMG")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MNMG")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
